@@ -1,0 +1,8 @@
+google-genai
+customtkinter
+matplotlib
+networkx
+numpy
+pillow
+pydantic
+python-dotenv
